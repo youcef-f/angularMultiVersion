@@ -9,7 +9,7 @@ La version global installé est la version **6.1.3** d'angular-ci
 Nous souhaitons travailler sur la version d'angular 4. Il faut installer la version de l'outil angular Cli **1.1**
 
 
-## installation
+## Installation
 
 ### Creaton d'un repertoire vide
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS
@@ -18,7 +18,7 @@ mkdir angularJSProjet
 ````
 
 
-### initialisation le projet
+### Initialisation le projet
 Se position au sein de ce repertoire puis lancer la commande npm init
 
 ````bash
@@ -29,7 +29,7 @@ C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernat
 npm init
 ````
 
-### installer la version d'angular CLI désiré.
+### Installer la version d'angular CLI désiré.
 
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
@@ -60,7 +60,7 @@ C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernat
 λ rm package-lock.json
 ````
 
-Creation d'un nouveau projet angular sur la base d'angular cli désiré
+## Creation d'un nouveau projet angular sur la base d'angular cli désiré
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
 λ ng new GestionComptesAngular4
