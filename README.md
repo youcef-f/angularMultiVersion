@@ -158,7 +158,7 @@ os: win32 x64
 @angular/language-service: 4.4.7
 ````
 
-## le repertoire peut etre deplacer partout ensuite.
+## Le repertoire peut etre deplacer partout ensuite.
 
 
 ## correspondance entre angular-Cli et Angular
