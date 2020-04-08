@@ -12,7 +12,7 @@ Nous souhaitons travailler sur la version d'angular 4. Il faut installer la vers
 ## installation
 
 ### Creaton d'un repertoire vide
-C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
+C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS
 ````bash
 mkdir angularJSProjet
 ````
@@ -22,7 +22,10 @@ mkdir angularJSProjet
 Se position au sein de ce repertoire puis lancer la commande npm init
 
 ````bash
+C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS
 cd angularJSProjet
+
+C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
 npm init
 ````
 
