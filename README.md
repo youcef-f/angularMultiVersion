@@ -19,12 +19,14 @@ mkdir angularJSProjet
 
 
 ### Initialisation le projet
-Se position au sein de ce repertoire puis lancer la commande npm init
-
+Se position au sein de ce repertoire
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS
 cd angularJSProjet
+````
 
+ puis lancer la commande npm init
+````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
 npm init
 ````
