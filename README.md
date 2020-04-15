@@ -48,18 +48,17 @@ C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernat
 
  Répertoire de C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
 
-08/04/2020  14:22    <DIR>          .
-08/04/2020  14:22    <DIR>          ..
-08/04/2020  14:22    <DIR>          node_modules
-08/04/2020  14:22           292 980 package-lock.json
+15/04/2020  16:09    <DIR>          node_modules
+15/04/2020  16:09           330 065 package-lock.json  <<--- supprimer
+15/04/2020  16:09               276 package.json  <<--- supprimer
                1 fichier(s)          292 980 octets
                3 Rép(s)  29 933 797 376 octets libres
 ````
 
-
+## suppression des fichiers non necessaire. Conserver uniquement le repertoire node_modules
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
-λ rm package-lock.json
+λ rm package-lock.json package.json
 ````
 
 ## Creation d'un nouveau projet angular sur la base d'angular cli désiré
