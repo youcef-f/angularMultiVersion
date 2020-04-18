@@ -65,7 +65,7 @@ C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernat
 ## Creation d'un nouveau projet angular sur la base d'angular cli désiré
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
-λ ng new GestionComptesAngular4
+λ ng new GestionComptesAngularX
 Your global Angular CLI version (6.1.3) is greater than your local
 version (1.1.3). The local Angular CLI version is used.
 
@@ -104,12 +104,12 @@ Successfully initialized git.
 Installing packages for tooling via npm.
 Installed packages for tooling via npm.
 You can `ng set --global packageManager=yarn`.
-Project 'GestionComptesAngular4' successfully created.
+Project 'GestionComptesAngularX' successfully created.
 ````
 
 
-
-Le repertoire **node_modules** à la racine du repertoire n'est plus nécessaire. Attention de ne pas supprimer celui à l'intérieur du nouveau projet **GestionComptesAngular4**.
+## suppresion du repertoire node_modules
+Le repertoire **node_modules** à la racine du repertoire n'est plus nécessaire. Attention de ne pas supprimer celui à l'intérieur du nouveau projet **GestionComptesAngularX**.
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
 λ dir
@@ -120,7 +120,7 @@ C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernat
 
 08/04/2020  14:23    <DIR>          .
 08/04/2020  14:23    <DIR>          ..
-08/04/2020  14:23    <DIR>          GestionComptesAngular4
+08/04/2020  14:23    <DIR>          GestionComptesAngularX
 08/04/2020  14:22    <DIR>          node_modules  <<--- supprimer
                0 fichier(s)                0 octets
                4 Rép(s)  29 414 424 576 octets libres
@@ -129,9 +129,9 @@ C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernat
 
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
-λ cd GestionComptesAngular4
+λ cd GestionComptesAngularX
 
-C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet\GestionComptesAngular4 (master -> origin)
+C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet\GestionComptesAngularX (master -> origin)
 λ ng version
 Your global Angular CLI version (6.1.3) is greater than your local
 version (1.1.3). The local Angular CLI version is used.
