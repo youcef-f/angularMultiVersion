@@ -32,10 +32,11 @@ npm init
 ````
 
 ### Installer la version d'angular CLI désiré.
+**Voir le tableau en fin de page pour la correspondance entre angular et angluar-cli**
 
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
-λ npm install @angular/cli@1.1
+λ npm install @angular/cli@1.X.X
 ````
 
 ## Suppression des repertoires et fichiers generés localement excepté le repertoire **node_modules**
