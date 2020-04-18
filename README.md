@@ -124,8 +124,13 @@ C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernat
 08/04/2020  14:22    <DIR>          node_modules  <<--- supprimer
                0 fichier(s)                0 octets
                4 Rép(s)  29 414 424 576 octets libres
+               
+
+C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
+λ rm -rf node_modules              
 ````
 
+## Verifier la version du projet
 
 ````bash
 C:\PERSONNEL\eclipse-workspace-java-training\GestionComptesSpringBootJPAHibernateRestfulSOAPRMIAngularJS\angularJSProjet
